@@ -1,0 +1,5 @@
+- # sobre eu
+- 👀 meu nome È joyce fernanda maria da silva lima
+- 🌱 meu email de contato È joyce.lima.silva@escola.pr.gov.br
+- 💞️ estou interessada aprender a criar jogos 
+- Eu estou aprendendo a progamar recentemente a linguagem de JAVAscript e scratch
